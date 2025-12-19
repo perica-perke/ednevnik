@@ -1,0 +1,13 @@
+C:\Users\ucenik\source\repos\Ednevnik410b\bin\Debug\Ednevnik410b.exe.config
+C:\Users\ucenik\source\repos\Ednevnik410b\bin\Debug\Ednevnik410b.exe
+C:\Users\ucenik\source\repos\Ednevnik410b\bin\Debug\Ednevnik410b.pdb
+C:\Users\ucenik\source\repos\Ednevnik410b\obj\Debug\Ednevnik410b.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\Ednevnik410b\obj\Debug\Ednevnik410b.Properties.Resources.resources
+C:\Users\ucenik\source\repos\Ednevnik410b\obj\Debug\Ednevnik410b.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\Ednevnik410b\obj\Debug\Ednevnik410b.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\Ednevnik410b\obj\Debug\Ednevnik410b.exe
+C:\Users\ucenik\source\repos\Ednevnik410b\obj\Debug\Ednevnik410b.pdb
+C:\Users\ucenik\source\repos\Ednevnik410b\obj\Debug\Ednevnik410b.Osobe.resources
+C:\Users\ucenik\source\repos\Ednevnik410b\obj\Debug\Ednevnik410b.Glavna.resources
+C:\Users\ucenik\source\repos\Ednevnik410b\obj\Debug\Ednevnik410b.Login.resources
+C:\Users\ucenik\source\repos\Ednevnik410b\obj\Debug\Ednevnik410b.Upisnica.resources
